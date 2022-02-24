@@ -1,0 +1,136 @@
+.contenedor{
+    width: 100%;
+    height: 80%;
+    position: absolute;
+    left: -60px;
+    top: 10%;
+}
+.uf1{
+    width: 70%;
+    height: 23%;
+    margin: 10px;
+}
+.uf2{
+    width: 70%;
+    height: 23%;
+    margin: 10px;
+}
+.uf3{
+    width: 70%;
+    height: 23%;
+    margin: 10px;
+}
+.uf4{
+    width: 70%;
+    height: 23%;
+    margin: 10px;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+.uf1:hover {
+    transform: scaleX(120%);
+}
+.uf2:hover {
+    transform: scaleX(120%);
+}
+.uf3:hover {
+    transform: scaleX(120%);
+}
+.uf4:hover {
+    transform: scaleX(120%);
+}
+
+@media screen and (max-width: 1000px){
+
+    .contenedor{
+        width: 110%;
+        height: 80%;
+        margin: 0 auto;
+
+    }
+    .uf1{
+        width: 90%;
+        height: 23%;
+        margin: 10px;
+    }
+    .uf2{
+        width: 90%;
+        height: 23%;
+        margin: 10px;
+    }
+    .uf3{
+        width: 90%;
+        height: 23%;
+        margin: 10px;
+    }
+    .uf4{
+        width: 90%;
+        height: 23%;
+        margin: 10px;
+    }
+    .uf1:hover {
+        transform: scaleX(110%);
+    }
+    .uf2:hover {
+        transform: scaleX(110%);
+    }
+    .uf3:hover {
+        transform: scaleX(110%);
+    }
+    .uf4:hover {
+        transform: scaleX(110%);
+    }
+    
+}
+@media screen and (max-width: 700px){
+
+    .contenedor{
+        width: 110%;
+        height: 70%;
+        margin: 0 auto;
+    }
+    .uf1{
+        width: 115%;
+        height: 23%;
+        margin: 10px;
+        display: flex;
+        justify-content: center;
+    }
+    .uf2{
+        width: 115%;
+        height: 23%;
+        margin: 10px;
+        display: flex;
+        justify-content: center;
+    }
+    .uf3{
+        width: 115%;
+        height: 23%;
+        margin: 10px;
+        display: flex;
+        justify-content: center;
+    }
+    .uf4{
+        width: 115%;
+        height: 23%;
+        margin: 10px;
+        display: flex;
+        justify-content: center;
+    }
+    .uf1:hover {
+        transform: scaleX(110%);
+    }
+    .uf2:hover {
+        transform: scaleX(110%);
+    }
+    .uf3:hover {
+        transform: scaleX(110%);
+    }
+    .uf4:hover {
+        transform: scaleX(110%);
+    }
+    
+}
