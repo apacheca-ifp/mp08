@@ -1,0 +1,53 @@
+.contenedor{
+    width: 100%;
+    background-color: yellow;
+    height: 80%;
+    position: absolute;
+    left: -60px;
+    top: 10%;
+}
+.uf1{
+    background-color: red;
+    width: 70%;
+    height: 23%;
+    margin: 10px;
+}
+.uf2{
+    background-color: rgb(221, 86, 32);
+    width: 70%;
+    height: 23%;
+    margin: 10px;
+}
+.uf3{
+    background-color: rgb(83, 179, 38);
+    width: 70%;
+    height: 23%;
+    margin: 10px;
+}
+.uf4{
+    background-color: rgb(48, 118, 197);
+    width: 70%;
+    height: 23%;
+    margin: 10px;
+}
+
+p{
+    font-family: 'Neucha', cursive;
+    font-size: 64px;
+    text-align: center;
+    position: relative;
+    top: 30%;
+}
+.uf1:hover {
+    transform: scaleX(140%);
+}
+.uf2:hover {
+    transform: scaleX(140%);
+}
+.uf3:hover {
+    transform: scaleX(140%);
+}
+.uf4:hover {
+    transform: scaleX(140%);
+}
+
