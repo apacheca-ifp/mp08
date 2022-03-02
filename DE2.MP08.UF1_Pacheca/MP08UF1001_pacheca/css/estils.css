@@ -1,0 +1,134 @@
+body {
+  background-color: #FFFFFF;
+  margin: 0;
+  display: inline;
+}
+html {
+  scroll-behavior: smooth;
+}
+.blanca {
+  background-color: #FFFFFF;
+}
+.verd{
+  background-color: #6C3;
+  height:550px;
+  }
+.fosca{
+  height: 200px;
+  background-color: #333;
+}
+.clara{
+  background-color: #EEECEE;
+}
+#menu{
+  height: 40px
+
+}
+#coneix{
+  background-image: url(../img/img-hero-full-list.png);
+}
+#tot{
+  height: 641px;
+  position: static;
+  background-image: url(../img/allinone.jpg);
+}
+#util{
+  height: 500px;
+  color: white;
+  position: static;
+  background-image: url(../img/curator-short.png);
+}
+#descarrega{
+  height: 200px;
+  text-align: center;
+}
+
+#descarrega img{
+  padding: 20px;
+}
+#rapid{
+  height: 550px;
+  position: static;
+  background-image: url(../img/img-hero-full-list.png);
+}
+#arreu{
+  height: 643px;
+  position: static;
+  background-image: url(../img/anywhere.png);
+}
+
+#facil{
+  position: static;
+  background-image: url(../img/mobile-share.png);
+  background-position: 450px 15px;
+  background-repeat: no-repeat;
+}
+.torna{
+  height: 100px;
+  width: 100px;
+  background-color: orange;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+  border-radius: 50px;
+  font-size: 60px;
+  text-align: center;
+  line-height: 115px;
+  box-shadow: 10px 10px 10px;
+}
+.izquierda{
+  width: 400px;
+  padding: 50px;
+  font-size: 18px;
+
+
+}
+h1{
+  text-align: center;
+}
+p{
+  line-height: 22px;
+  font-size: 18px;
+  margin:0px;
+  width:390px;
+  padding: 0 30px;
+  text-indent: 18px;
+  font-family: helvetica neue,sans-serif;
+}
+div{
+  background-position: 450px 0;
+  background-repeat: no-repeat;
+}
+ul{
+  padding: 0;
+  width: 740px;
+  display: inline-block;
+  height: 30px;
+  margin: 0;
+  vertical-align: top;
+
+}
+li{
+  list-style-type: none;
+  display: inline-block;
+  vertical-align: super;
+  margin: 0;
+  padding: 6px;
+  border: 1px solid black;
+  border-radius: 10px 0 10px 0;
+
+}
+a:link{
+  color: #6C3;
+}
+
+
+a:active{
+  background-color: black;
+}
+a:visited{
+  color: purple;
+}
+li:hover{
+  background-color: red;
+}

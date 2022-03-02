@@ -1,0 +1,39 @@
+div{
+    background-color: red;
+    height: 10em;
+    width: 10em;
+}
+
+h2{
+    clear: both;
+}
+
+.floatE{
+    float: left;
+    margin: 0 1em 1em 0;
+    background-image:
+    background-size: 100%;
+}
+
+.floatR{
+    float: right;
+    margin: 0 0 1em 1em;
+}
+.floatR{
+  float: right;
+  margin: 0 1em 1em 0;
+  background-image:;
+  background-size: 100%;
+}
+.Capitular{
+  float: left;
+  margin: 0 0 5em 0 5em 0;
+  background-image: url(../img/L-1.jpeg);
+  background-size: 100%;
+  width: ;
+}
+span{
+  color: red;
+  display: none;
+}
+.co

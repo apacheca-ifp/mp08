@@ -1,0 +1,239 @@
+body{
+  background-color: #959A9C;
+}
+.funcionalitats{
+  height: 500px;
+  width: 1000px;
+  background-color: white;
+  margin: 10px;
+  line-height : 25px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px 10px 10px 10px;
+}
+.funcionalitats p{
+  color: black;
+  text-align: left;
+  margin:30px;
+  font-family: helvetica,sans-serif;
+  font-size: 14px;
+}
+.funcionalitats img{
+  height: 45%;
+  width: 45%;
+  border-radius: 10px 10px 10px 10px;
+}
+
+h2{
+  text-align: left;
+  font-size: 60px;
+  font-family: helvetica,sans-serif;
+  width: 600px;
+  float: right;
+  margin-top: 0%;
+}
+
+h3{
+  text-align: left;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  bottom: 50px;
+}
+
+h4{
+  color: #2d71ae;
+  text-align: left;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  bottom: 70px;
+}
+
+h5{
+  width: 500px;
+  text-align: right;
+}
+
+h6{
+  font-family: helvetica,sans-serif;
+  font-size: 18px;
+  text-indent: 18px;
+  position: relative;
+  top: 20px;
+}
+
+li{
+  list-style-type: none;
+}
+
+.financament{
+  height: 400px;
+  width: 1000px;
+  background-color: white;
+  margin: 10px;
+  line-height : 25px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.financament p{
+  color: black;
+  text-align: left;
+  margin:30px;
+  font-family: helvetica,sans-serif;
+  font-size: 14px;
+  position: relative;
+  top: 20px;
+}
+.financament img{
+  position: relative;
+  bottom: 5px;
+  border-radius: 10px 10px 10px 10px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: 200px;
+  object-fit: contain;
+}
+
+.companyia{
+  height: 400px;
+  width: 1000px;
+  background-color: white;
+  margin: 10px;
+  line-height : 25px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.companyia p{
+  color: black;
+  text-align: left;
+  margin:30px;
+  font-family: helvetica,sans-serif;
+  font-size: 14px;
+}
+
+.alternatives{
+  height: 300px;
+  width: 1000px;
+  background-color: white;
+  margin: 10px;
+  line-height : 25px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.alternatives p{
+  color: black;
+  text-align: lef t;
+  margin:30px;
+  font-family: helvetica,sans-serif;
+  font-size: 14px;
+}
+
+.alternatives img{
+  position: relative;
+  bottom: 50px;
+  border-radius: 10px 10px 10px 10px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: 200px;
+  object-fit: contain;
+}
+
+.avantantges{
+  float: left;
+  height: 670px;
+  width: 450px;
+  background-color: white;
+  margin: 10px;
+  line-height : 25px;
+  text-align: center;
+  border-radius: 10px 10px 10px 10px;
+  position: relative;
+  left: 20px;
+}
+
+.inconvenients{
+  float: right;
+  height: 670px;
+  width: 450px;
+  background-color: white;
+  margin: 10px;
+  line-height : 25px;
+  text-align: center;
+  border-radius: 10px 10px 10px 10px;
+  position: relative;
+  right: 20px;
+}
+
+.avantantges h6 {
+  font-family: helvetica,sans-serif;
+  font-size: 18px;
+  text-indent: 18px;
+  position: relative;
+  top: -20px;
+}
+
+.inconvenients h6{
+  font-family: helvetica,sans-serif;
+  font-size: 18px;
+  text-indent: 18px;
+  position: relative;
+  top: -20px;
+}
+
+.avantantges p {
+  color: black;
+  text-align: left;
+  margin:30px;
+  font-family: helvetica,sans-serif;
+  font-size: 14px;
+  position: relative;
+}
+
+.inconvenients p {
+  color: black;
+  text-align: left;
+  margin:30px;
+  font-family: helvetica,sans-serif;
+  font-size: 14px;
+  position: relative;
+}
+
+.plataformes{
+  background-color: red;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.plataformes img{
+  float: left;
+  margin: 20px;
+  position: relative;
+  left: 200px;
+}
+
+ul{
+  margin-left: 35%;
+}
+
+article{
+  margin-bottom: 45%;
+  width: 1000px;
+  margin-left:auto;
+  margin-right: auto;
+}

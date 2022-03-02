@@ -1,0 +1,52 @@
+header {
+  background: rgba(0,0,0,0.9);
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+nav {
+  float: left;
+}
+
+nav ul {
+  list-style: none;
+  overflow: hidden;
+}
+
+nav ul li {
+  float: left;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+nav ul li a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+}
+
+nav ul li:hover {
+  background: #;
+}
+body {
+  background-color: #222;
+  margin: 0;
+  display: inline;
+}
+.foto {
+  margin: 5px;
+  float: left;
+  font-size: 3em;
+
+}
+
+h1 {
+  position: absolute;
+  top: 70px;
+  color: white;
+}
+h2{
+  font-size: 22px;
+  margin:0;
+  color: white;
+}
