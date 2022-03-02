@@ -1,0 +1,216 @@
+body {
+    background-image: url("../img/fondouf1.png");
+    background-repeat: repeat;
+  }
+ul{
+  list-style: none;
+  position: relative;
+  right: 60px;
+}
+img{
+  width: 100%;
+  height: auto;
+}
+.uf1{
+    width: 60%;
+    height: 23%;
+    margin: 10px;
+}
+.uf2{
+    width: 60%;
+    height: 23%;
+    margin: 10px;
+}
+.uf3{
+  width: 60%;
+  height: 23%;
+  margin: 10px;
+}
+
+.uf4{
+    width: 60%;
+    height: 23%;
+    margin: 10px;
+}
+.uf5{
+    width: 60%;
+    height: 23%;
+    margin: 10px;
+}
+.uf6{
+    width: 60%;
+    height: 23%;
+    margin: 10px;
+}
+.uf7{
+    width: 60%;
+    height: 23%;
+    margin: 10px;
+}
+.uf8{
+    width: 60%;
+    height: 23%;
+    margin: 10px;
+}
+.uf9{
+  width: 60%;
+  height: 23%;
+  margin: 10px;
+}
+.uf10{
+  width: 60%;
+  height: 23%;
+  margin: 10px;
+}
+
+.uf1:hover {
+  transform: scaleX(120%);
+}
+.uf2:hover {
+  transform: scaleX(120%);
+}
+.uf3:hover {
+  transform: scaleX(120%);
+}
+.uf4:hover {
+  transform: scaleX(120%);
+}
+.uf5:hover {
+  transform: scaleX(120%);
+}
+.uf6:hover {
+  transform: scaleX(120%);
+}
+.uf7:hover {
+  transform: scaleX(120%);
+}
+.uf8:hover {
+  transform: scaleX(120%);
+}
+.uf9:hover {
+  transform: scaleX(120%);
+}
+.uf10:hover {
+  transform: scaleX(120%);
+}
+@media screen and (max-width: 1000px){
+
+  .contenedor{
+      width: 110%;
+      height: 80%;
+      margin: 0 auto;
+
+  }
+  .uf1{
+      width: 90%;
+      height: 23%;
+      margin: 10px;
+  }
+  .uf2{
+      width: 90%;
+      height: 23%;
+      margin: 10px;
+  }
+  .uf3{
+      width: 90%;
+      height: 23%;
+      margin: 10px;
+  }
+  .uf4{
+      width: 90%;
+      height: 23%;
+      margin: 10px;
+  }
+  .uf5{
+    width: 90%;
+    height: 23%;
+    margin: 10px;
+}
+.uf6{
+  width: 90%;
+  height: 23%;
+  margin: 10px;
+}
+.uf7{
+  width: 90%;
+  height: 23%;
+  margin: 10px;
+}
+.uf8{
+  width: 90%;
+  height: 23%;
+  margin: 10px;
+}
+.uf9{
+  width: 90%;
+  height: 23%;
+  margin: 10px;
+}
+.uf10{
+  width: 90%;
+  height: 23%;
+  margin: 10px;
+}
+  .uf1:hover {
+      transform: scaleX(110%);
+  }
+  .uf2:hover {
+      transform: scaleX(110%);
+  }
+  .uf3:hover {
+      transform: scaleX(110%);
+  }
+  .uf4:hover {
+      transform: scaleX(110%);
+  }
+  
+}
+@media screen and (max-width: 700px){
+
+  .contenedor{
+      width: 110%;
+      height: 70%;
+      margin: 0 auto;
+  }
+  .uf1{
+      width: 115%;
+      height: 23%;
+      margin: 10px;
+      display: flex;
+      justify-content: center;
+  }
+  .uf2{
+      width: 115%;
+      height: 23%;
+      margin: 10px;
+      display: flex;
+      justify-content: center;
+  }
+  .uf3{
+      width: 115%;
+      height: 23%;
+      margin: 10px;
+      display: flex;
+      justify-content: center;
+  }
+  .uf4{
+      width: 115%;
+      height: 23%;
+      margin: 10px;
+      display: flex;
+      justify-content: center;
+  }
+  .uf1:hover {
+      transform: scaleX(110%);
+  }
+  .uf2:hover {
+      transform: scaleX(110%);
+  }
+  .uf3:hover {
+      transform: scaleX(110%);
+  }
+  .uf4:hover {
+      transform: scaleX(110%);
+  }
+  
+}
