@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+background: linear-gradient(50deg, ivory 50%, pink 50%);
+
+}
+.contenedor{
+  width: 960px;
+  margin: 0 auto;
+}
+.animacion{
+
+  height: 589px;
+  width: auto;
+  margin: 0 auto;
+}
+.coches{
+  height: 240px;
+  width: 300px;
+  margin: 10px;
+  background-color: white;
+  float: left;
+}
+h2{
+  height: 40px;
+  font-size: 1em;
+  font-family: helvetica,arial,sans-serif;
+  color: grey;
+  margin:10px;
+}
+h1{
+  text-align: center;
+  font-family: helvetica,arial,sans-serif;
+  color: black;
+  font-size: 4em;
+}
+b{
+  color: grey;
+}
+.coches img{
+  width: 300px;
+  height: auto
+}
+.peu{
+  height: 220px;
+  width: 960px;
+
+  clear: both;
+}
+.coches img:hover{
+  transform: rotate(180deg);
+  animation-name: vuelta;
+}
+.peu img{
+  display: block;
+  margin: 0px auto;
+}
+@media screen and (max-width: 940px){
+  .contenedor{
+    width: 300px;
+    margin: 0 auto;}
+    .peu{
+      height: 220px;
+      width: 300px;
+      clear: both;}
+
+}
+@keyframes vuelta{
+   transform: rotate(0deg);
+}
+@keyframes vuelta{
+   transform: rotate(360deg);
+}
