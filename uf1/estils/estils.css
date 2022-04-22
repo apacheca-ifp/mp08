@@ -163,6 +163,28 @@ img{
   .uf4:hover {
       transform: scaleX(110%);
   }
+  .uf4:hover {
+    transform: scaleX(110%);
+  }
+  .uf5:hover {
+    transform: scaleX(110%);
+  }
+  .uf6:hover {
+    transform: scaleX(110%);
+  }
+  .uf7:hover {
+    transform: scaleX(110%);
+  }
+  .uf8:hover {
+    transform: scaleX(110%);
+  }
+  .uf9:hover {
+    transform: scaleX(110%);
+  }
+  .uf10:hover {
+    transform: scaleX(110%);
+  }
+
   
 }
 @media screen and (max-width: 700px){
@@ -200,6 +222,48 @@ img{
       display: flex;
       justify-content: center;
   }
+  .uf5{
+    width: 115%;
+    height: 23%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+  .uf6{
+    width: 115%;
+    height: 23%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  .uf7{
+    width: 115%;
+    height: 23%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  .uf8{
+    width: 115%;
+    height: 23%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  .uf9{
+    width: 115%;
+    height: 23%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  .uf10{
+    width: 115%;
+    height: 23%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+  }
   .uf1:hover {
       transform: scaleX(110%);
   }
@@ -212,5 +276,24 @@ img{
   .uf4:hover {
       transform: scaleX(110%);
   }
+  .uf5:hover {
+    transform: scaleX(110%);
+  }
+  .uf6:hover {
+    transform: scaleX(110%);
+  }
+  .uf7:hover {
+    transform: scaleX(110%);
+  }
+  .uf8:hover {
+    transform: scaleX(110%);
+  }
+  .uf9:hover {
+    transform: scaleX(110%);
+  }
+  .uf10:hover {
+    transform: scaleX(110%);
+  }
+
   
 }
