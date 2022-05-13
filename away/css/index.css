@@ -1,0 +1,58 @@
+
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+body {
+
+    font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size:medium;
+    height:100%;
+    margin:0px;
+    padding:0px;
+    width:100%;
+    text-align: center;
+}
+
+
+.head {
+    background-color: #00B451;
+    width: 100%;
+    height: 100px;
+
+}
+
+.logo{
+    height: 100%;
+    width: 200px;
+    margin: 0 auto;
+}
+img{
+    position: relative;
+    top: 15%    ;
+    height: 70px;
+    width: auto;
+}
+
+#content a {
+    display:block;
+
+}
+
+.short {
+    display:block;
+    height:100px;
+    width:auto;
+    margin: 30px auto 5px auto;
+}
+
+#poster{
+    height: 500px;
+    width: auto;
+}
+@media (max-width:700px){
+    #poster{
+        height: 350px;
+        width: auto;
+    }
+}
